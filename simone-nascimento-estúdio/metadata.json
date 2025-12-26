@@ -1,0 +1,7 @@
+{
+  "name": "Simone Nascimento Estúdio",
+  "description": "Premium beauty salon management and booking app with AI-powered style consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
